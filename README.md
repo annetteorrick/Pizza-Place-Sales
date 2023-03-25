@@ -35,6 +35,7 @@ The Classic Deluxe Pizza was the best performing pizza, selling 2,416 total pizz
 
 ### Peak Hours 
 The most amount of pizzas were sold during the **12:00 pm hour**. 
+
 The **1:00pm hour** was second, and in the evening the **6:00 pm hour** was the third best selling hour. 
 
 
